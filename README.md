@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌍 I am a Research Fellow at the [Oxford Martin School](https://www.oxfordmartin.ox.ac.uk/people/aman-majid/)
+- 🌍 I am an energy analyst currently working at [@transitionzero](https://github.com/transition-zero)
 - 🏗️ I am interested in the relationship between climate and infrastructure systems (mainly energy ⚡ and water 💧)
 - 👨‍💻️ Work mostly with Python and R
 - 📫 Get in touch! aman.majid@ouce.ox.ac.uk
