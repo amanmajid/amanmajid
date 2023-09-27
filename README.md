@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi there 👋🏽
 
 - 🌍 I am an energy analyst currently working at [@transitionzero](https://github.com/transition-zero)
-- 🏗️ I am interested in the relationship between climate and infrastructure systems (mainly energy ⚡ and water 💧)
-- 👨‍💻️ Work mostly with Python and R
-- 📫 Get in touch! aman.majid@ouce.ox.ac.uk
+- 🏗️ I am also a researcher at [@OPSIS](https://opsis.eci.ox.ac.uk/)
+- 👨‍💻️ I work mostly with Python and sometimes with R
+- ⚡ Packages I am working with: [PyPSA](https://github.com/PyPSA), [OSeMOSYS](https://github.com/osemosys) and [snkit](https://github.com/tomalrussell/snkit) 
 
 <!--
 **amanmajid/amanmajid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
