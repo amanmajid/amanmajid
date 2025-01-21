@@ -1,9 +1,8 @@
 ### Hi there 👋🏽
 
-- 🌍 I am an energy analyst currently working at [@transitionzero](https://github.com/transition-zero)
+- 🌍 I'm an energy analyst and founder of [Bayesian Energy](www.bayesian-energy.com)
+- 👨‍💻️ I am currently focused on building [Renewables Vision](https://bayesian-energy.com/#products)
 - 🏗️ I am also a researcher at [@OPSIS](https://opsis.eci.ox.ac.uk/)
-- 👨‍💻️ I work mostly with Python and sometimes with R
-- ⚡ Packages I am working with: [PyPSA](https://github.com/PyPSA), [OSeMOSYS](https://github.com/osemosys) and [snkit](https://github.com/tomalrussell/snkit) 
 
 <!--
 **amanmajid/amanmajid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
