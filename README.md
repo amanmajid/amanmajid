@@ -1,6 +1,6 @@
 ### Hi there 👋🏽
 
-- 🌍 I'm an energy analyst and founder of [Bayesian Energy](www.bayesian-energy.com)
+- 🌍 I'm an energy analyst and founder of [Bayesian Energy](https://bayesian-energy.com)
 - 👨‍💻️ I am currently focused on building [Renewables Vision](https://bayesian-energy.com/#products)
 - 🏗️ I am also a researcher at [@OPSIS](https://opsis.eci.ox.ac.uk/)
 
